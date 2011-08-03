@@ -1,0 +1,48 @@
+--- 
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  title: This is my task 1
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  title: This is my task 2
+- !ruby/object:Task 
+  status: :complete
+  tags: 
+  - tag1
+  - tag2
+  title: This is my task 3
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  title: This is my task 4
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  title: This is my task 5
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  title: This is my task 6
+- !ruby/object:Task 
+  tags: 
+  - tag1
+  - tag2
+  title: This is my task 7
+- !ruby/object:Task 
+  status: :complete
+  tags: 
+  - tag1
+  title: This is my task 8
+- !ruby/object:Task 
+  status: :complete
+  tags: 
+  - tag1
+  - tag2
+  title: This is my task 9
+- !ruby/object:Task 
+  status: :complete
+  tags: 
+  - tag1
+  title: This is my task 10
